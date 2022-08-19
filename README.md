@@ -1,4 +1,4 @@
 # TodeTode
 language of todes
 
-![glyphs](https://user-images.githubusercontent.com/15892272/185626861-da39a6bb-6840-4fe9-bf68-2c5f739b6f3c.png)
+![image](https://user-images.githubusercontent.com/15892272/185633272-b1a59509-44b1-4c21-9c4a-73085ce8a570.png)
