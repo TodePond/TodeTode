@@ -16,19 +16,21 @@
 ### Variation: Winged
 ![image](https://user-images.githubusercontent.com/15892272/185742572-24c45eb8-184c-4bb0-a3e1-69bed0c6e257.png)
 
+* animal
 * animal of ( )
+* ... smallness
 
 ## Tree
 ![image](https://user-images.githubusercontent.com/15892272/185742604-882b0f14-2e25-4dd1-a3c1-6045e322a24c.png)
 
-* wood
+* plant
 * plant of ...
 
 ## Rain
 ![image](https://user-images.githubusercontent.com/15892272/185742626-293906b5-826a-40ed-8abf-ae7f4146010c.png)
 
-* rain
 * yes
+* good
 * good ( )
 * before...
 * ... !
@@ -36,22 +38,23 @@
 ## Wind
 ![image](https://user-images.githubusercontent.com/15892272/185742678-89e44fce-9c05-46fd-85af-7ca06554532b.png)
 
-* wind
+* action
 * do ( ) ->
 
 ### Variation: Left
 ![image](https://user-images.githubusercontent.com/15892272/185742698-67c531c6-33ef-485e-9ec7-9acb17654308.png)
 
+* action
 * <- do ( )
 
 ### Variation: Bi-Directional
 ![image](https://user-images.githubusercontent.com/15892272/185742703-705a30e8-fed2-4797-9526-df50410d9697.png)
+* action
 * <- do ( ) ->
 
 ## Fire
 ![image](https://user-images.githubusercontent.com/15892272/185742765-3f00a052-d972-43e0-9887-8f1b49f04b6c.png)
 
-* fire
 * no
 * bad ( )
 * after ...
