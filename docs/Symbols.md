@@ -38,18 +38,15 @@
 ## Wind
 ![image](https://user-images.githubusercontent.com/15892272/185742678-89e44fce-9c05-46fd-85af-7ca06554532b.png)
 
-* action
 * do ( ) ->
 
 ### Variation: Left
 ![image](https://user-images.githubusercontent.com/15892272/185742698-67c531c6-33ef-485e-9ec7-9acb17654308.png)
 
-* action
 * <- do ( )
 
 ### Variation: Bi-Directional
 ![image](https://user-images.githubusercontent.com/15892272/185742703-705a30e8-fed2-4797-9526-df50410d9697.png)
-* action
 * <- do ( ) ->
 
 ## Fire
