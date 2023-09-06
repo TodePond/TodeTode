@@ -24,7 +24,7 @@ In this final example, it's bi-directional:
 More than one phrase can exist in a single sentence:
 * tode likes berd. tode speaks to berd.
 
-![image](https://github.com/TodePond/TodeTode/assets/15892272/c97a090e-c2c0-4685-aba6-0773f24fe4e0)
+![image](https://github.com/TodePond/TodeTode/assets/15892272/c1826d5c-9d37-439c-b661-4f26d2540ccf)
 
 ## Lines
 
