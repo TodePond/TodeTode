@@ -2,7 +2,7 @@
 
 If you're a human, you probably find it hard to make tode noises.
 
-Instead, you can use these similar sounds instead.<br>
+Instead, you can use these similar sounds.<br>
 There are two choices for each sound. Say whatever flows easiest in the sentence.
 
 ![image](https://github.com/TodePond/TodeTode/assets/15892272/0bb61d58-f57d-4321-bc87-f6984b2194a1)
