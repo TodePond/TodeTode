@@ -6,3 +6,4 @@ TodeTode is the language of todes!
 * [Symbols](docs/Symbols.md)
 * [Vocab](docs/Vocab.md)
 * [Pronunciation](docs/Pronunciation.md)
+* [Structure](docs/Structure.md)
