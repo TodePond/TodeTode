@@ -28,3 +28,9 @@ You could shorten this. All of these are valid as well:
 * `woolarac`
 
 Consider using the longer version if you want to emphasise the word, or in a more formal setting. Use the shorter one if it doesn't matter so much, or you're in a rush.
+
+Combined with some other words, you could say `ruruh woolarac dat`.<br>
+This means "I don't like robots".
+
+![image](https://github.com/TodePond/TodeTode/assets/15892272/6dbf961b-7c85-4977-9496-76f0e0506779)
+
