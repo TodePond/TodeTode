@@ -20,6 +20,9 @@
 
 ## Two-symbol words
 
+### Greeting/Farewell
+<img height="200" src="https://github.com/labbo-lab/TodeTode/assets/62490883/70d929dd-6a18-4441-907e-3d62ca2ab261"></img>
+
 ### Pronouns
 
 <img height="200" src="https://github.com/TodePond/TodeTode/assets/15892272/e4ac6b49-c213-44f5-a6da-50c86f761225"></img>
