@@ -28,3 +28,6 @@
 
 <img height="200" src="https://github.com/TodePond/TodeTode/assets/15892272/7a76c88b-6a0d-4199-8245-1642c5c6d87d"></img>
 
+### Places
+<img height="200" src="https://github.com/TodePond/TodeTode/assets/15892272/decb7ad0-842d-44da-9d6c-6b849ca5d05c"></img>
+<img height="200" src="https://github.com/TodePond/TodeTode/assets/15892272/c30c350b-c867-49d0-97b4-a710a2abf25f"></img>
