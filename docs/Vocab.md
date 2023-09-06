@@ -26,7 +26,7 @@
 
 ### Verbs
 
-<img height="200" src="https://github.com/TodePond/TodeTode/assets/15892272/7a76c88b-6a0d-4199-8245-1642c5c6d87d"></img>
+<img height="200" src="https://github.com/TodePond/TodeTode/assets/15892272/7a1c686b-8545-4efa-863f-e8f454c3de48"></img>
 
 ### Places
 <img height="200" src="https://github.com/TodePond/TodeTode/assets/15892272/decb7ad0-842d-44da-9d6c-6b849ca5d05c"></img>
