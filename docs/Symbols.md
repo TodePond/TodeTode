@@ -93,3 +93,9 @@
 
 * ... ?
 * uncertainty
+
+## In
+![image](https://github.com/TodePond/TodeTode/assets/62490883/40acd42c-0775-4978-9235-54e455486a10)
+
+## Out
+![image](https://github.com/TodePond/TodeTode/assets/62490883/88966bce-4eea-4edb-a3d8-70046d7b3097)
