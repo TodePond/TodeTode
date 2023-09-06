@@ -3,7 +3,7 @@
 # TodeTode
 TodeTode is the language of todes!
 
-* [Vocab](docs/Vocab.md)
+* [Vocabulary](docs/Vocab.md)
 * [Structure](docs/Structure.md)
 * [Pronunciation](docs/Pronunciation.md)
 * [Symbols](docs/Symbols.md)
