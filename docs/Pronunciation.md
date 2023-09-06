@@ -25,6 +25,7 @@ It's `wind (rain (bot (tode))) fire`.<br>
 Or in other words, `woo lo da ra cur`.
 You could shorten this. All of these are valid as well:
 * `woolodarac`
+* `woolaracur`
 * `woolarac`
 
 Consider using the longer version if you want to emphasise the word, or in a more formal setting. Use the shorter one if it doesn't matter so much, or you're in a rush.
