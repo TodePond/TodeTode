@@ -9,7 +9,7 @@
 ## Fly
 ![image](https://user-images.githubusercontent.com/15892272/185742564-09017412-be2c-457c-a014-905599f1a668.png)
 
-* fly
+* thing
 * thing of ( )
 
 
