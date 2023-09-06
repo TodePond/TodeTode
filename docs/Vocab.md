@@ -2,7 +2,7 @@
 
 ## One-symbol words
 
-<img height="200" src="https://github.com/TodePond/TodeTode/assets/15892272/5f820286-fbbb-4274-8222-7ca14801bc5b"></img>
+<img height="200" src="https://github.com/TodePond/TodeTode/assets/15892272/90d8d977-9a25-4b05-aace-9df93232ce52"></img>
 
 <img height="200" src="https://github.com/TodePond/TodeTode/assets/15892272/61cd16a1-6a74-4184-bd9d-af5c88ee0c5f"></img>
 
