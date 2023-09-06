@@ -84,6 +84,7 @@
 * like ...
 * ... like ...
 * ... plural
+* ... +1
 * ( all )
 
 ## Rain-fire
