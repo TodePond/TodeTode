@@ -1,6 +1,6 @@
 ## Sounds
 
-If you're a human, you probably make it hard to make tode noises.
+If you're a human, you probably find it hard to make tode noises.
 
 Instead, you can use these similar sounds instead.<br>
 There are two choices for each sound. Say whatever flows easiest in the sentence.
