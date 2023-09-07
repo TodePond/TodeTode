@@ -35,3 +35,16 @@ This means "I don't like robots".
 
 ![image](https://github.com/TodePond/TodeTode/assets/15892272/6dbf961b-7c85-4977-9496-76f0e0506779)
 
+## Direction
+
+Sentences can be read in either direction.
+
+This means that wind sounds will be different depending on whether you're reading from right-to-left or left-to-right.
+
+* Forwards: `w / woo`
+* Backwards: `ee-w / ee-woo`
+* Bidirectional: `oo-w / oo-woo`
+
+## Exceptions
+
+Tode-tode can also be pronounced as `uh-r / uh-ruh` (instead of just `ruh-r / ruh-ruh`)
